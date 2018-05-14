@@ -3,7 +3,7 @@
 def usage
   puts <<END
   Usage: je [ARGS]...
-  
+
   Options:
     -v        verbose mode
     --version show version

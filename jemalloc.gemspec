@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'bundler', ['>= 1.0.0']
   s.add_development_dependency 'rake', ['>= 0.8.7']
-  s.add_development_dependency 'rake-compiler', ['~> 0.7.1']  
+  s.add_development_dependency 'rake-compiler', ['~> 0.7.1']
 end
