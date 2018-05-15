@@ -13,5 +13,5 @@ begin
   require 'rake/extensiontask'
   Rake::ExtensionTask.new('jemalloc')
 rescue LoadError
-  abort "This Rakefile requires rake-compiler (gem install rake-compiler)"
+  abort 'This Rakefile requires rake-compiler (gem install rake-compiler)'
 end
